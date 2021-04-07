@@ -3,6 +3,8 @@
 前端：bootstrap
 后台：ssm
 数据库：mysql</br>
+首页接口:http://localhost:8080/shop/
+后台管理接口：http://localhost:8080/shop/admin/login
 页面展示：
 ![image](https://user-images.githubusercontent.com/49858063/113870881-e4afdb80-97e4-11eb-9cba-cf2c70481ae9.png)
 ![image](https://user-images.githubusercontent.com/49858063/113870997-0315d700-97e5-11eb-987d-263b1032eb82.png)
