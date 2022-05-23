@@ -11,6 +11,12 @@
 ![image](https://user-images.githubusercontent.com/49858063/113871007-0610c780-97e5-11eb-8c41-daa1fcf054a9.png)
 ![image](https://user-images.githubusercontent.com/49858063/113871060-1628a700-97e5-11eb-8db7-be3b7546c1a0.png)
 
+
+如果帮助到了您，宽裕的可以犒劳一包烟钱，当做辛苦费，谢谢大家！</br>
+![26ce4071525082ac67ea2dab95a9181](https://user-images.githubusercontent.com/49858063/169776440-463b50f5-0226-41de-a7ff-21b863fa4c60.jpg)
+
+
+
 数据库实体设计：
 ①促销活动实体：活动编号、活动名、活动描述、折扣、满减价格、减少价格、满数量、减免数量。</br>
 ② 收货地址实体：收货地址编号、所属用户、省、市、区、详细地址、收货人、联系电话。</br>
